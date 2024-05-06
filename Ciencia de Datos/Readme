@@ -6,9 +6,18 @@ En esta sección, encontrarás una variedad de proyectos relacionados con la cie
 
 ## Proyectos
 
-1. [CNN deteccion de linfoma tipo B](proyectos/proyecto1/): Breve descripción del proyecto 1.
-2. [Proyeccion de e-commer](proyectos/proyecto2/): Breve descripción del proyecto 2.
-3. [Carrifour](proyectos/proyecto3/): Breve descripción del proyecto 3.
+1. [CNN deteccion de linfoma tipo B](Ciencia de Datos/Proyecto final bootcamp Data Science): 
+Desarrollar un modelo predictivo basado en CNN para distinguir casos de Leucemia linfoblástica aguda de tipo B, 
+de casos negativos sospechosos, a partir de imágenes de frotis de sangre periférica.
+
+
+2. [Proyeccion de e-commer](Ciencia de Datos/Proye-commer): 
+objetivo es extraer indicadores clave que ayuden a la empresa a comprender mejor su mercado.
+
+3. [Carrifour]  (Ciencia de Datos/Carrifour (Carrito abandonado)): 
+Este proyecto tiene como objetivo analizar los carritos de compra abandonados en Carrifour 
+y mejorar la retención de clientes mediante recomendaciones de productos personalizadas. 
+Utiliza un dashboard interactivo para visualizar datos y tomar decisiones informadas.
 
 ## Recursos
 
