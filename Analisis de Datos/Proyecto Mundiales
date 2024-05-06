@@ -1,1 +1,13 @@
+ 
+  - **Proyecto final Analisis de Datos Coder House:**.
+OBJETIVO
 
+El objetivo es determinar si la selección más exitosa en la Copa del Mundo es la misma que posee los mejores datos. 
+A través de esto, podemos concluir que algunas selecciones pueden destacarse en torneos específicos, logrando ganar 
+la copa, mientras que en otros eventos no participan o no obtienen resultados destacados. También es posible que
+haya selecciones mejor clasificadas en términos de estadísticas que en términos de resultados finales.
+  
+- **Tecnologías Utilizadas:** Power Bi, SQL
+
+  - **Resultados:** Top 10 de selecciones: Argentina,Brasil, Argentina, Francia, Italia, Mexico, Marruecos, Hungria, Chile y España .
+  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
