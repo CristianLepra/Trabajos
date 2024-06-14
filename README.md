@@ -54,7 +54,6 @@ Utiliza un dashboard interactivo para visualizar datos y tomar decisiones inform
 Si estás interesado en colaborar, tienes preguntas o simplemente quieres conectarte, no dudes en ponerte en contacto conmigo:
 - Correo Electrónico:cristianleprab@gmail.com
 - LinkedIn: www.linkedin.com/in/cristianlepra
-- Curriculum actualizado
-[Cristian Lepra24CF.pdf.pdf](https://github.com/CristianLepra/Trabajos/files/15225876/Cristian.Lepra24CF.pdf.pdf)
+- Curriculum actualizado [Cristian Lepra24 CF.pdf](https://github.com/user-attachments/files/15840616/Cristian.Lepra24.CF.pdf)
 
 ¡Gracias por visitar mi portafolio!
