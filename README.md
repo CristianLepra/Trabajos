@@ -6,31 +6,48 @@
 
 ¡Hola! Soy Cristian Lepra, un entusiasta de la ciencia de datos con experiencia en ciencia de datos y analisis de datos. Me apasiona explorar datos, encontrar patrones significativos y desarrollar soluciones inteligentes para problemas complejos.
 
-## Proyectos Destacados
+## Proyectos
 
-### 1. [Nombre del Proyecto 1](enlace_al_proyecto_1)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+1. [CNN deteccion de linfoma tipo B](Ciencia de Datos/Proyecto final bootcamp Data Science): 
+Desarrollar un modelo predictivo basado en CNN para distinguir casos de Leucemia linfoblástica aguda de tipo B, 
+de casos negativos sospechosos, a partir de imágenes de frotis de sangre periférica.
 
-### 2. [Nombre del Proyecto 2](enlace_al_proyecto_2)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+- **Tecnologías Utilizadas:** 
+    - Python
+    - Google Colab
+    - Kaggle
+    - Loom
+    - Power Bi
+    - Github
 
-### 3. [Nombre del Proyecto 3](enlace_al_proyecto_3)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+2. [Proyeccion de e-commer](Ciencia de Datos/Proye-commer): 
+objetivo es extraer indicadores clave que ayuden a la empresa a comprender mejor su mercado.
 
-### 4. [Nombre del Proyecto 3](enlace_al_proyecto_3)
-  - **Descripción:** Breve descripción del proyecto y su objetivo.
-  - **Tecnologías Utilizadas:** Lista de tecnologías, herramientas y lenguajes de programación utilizados.
-  - **Resultados:** Principales hallazgos y conclusiones del proyecto.
-  - **Enlace al Código:** [Repositorio en GitHub](enlace_al_repositorio)
+- **Tecnologías Utilizadas:** 
+    - Python
+    - Google Colab
+    - Kaggle
+    - Loom
+    - Power Bi
+    - Github
+
+3. [Carrifour]  (Ciencia de Datos/Carrifour (Carrito abandonado)): 
+Este proyecto tiene como objetivo analizar los carritos de compra abandonados en Carrifour 
+y mejorar la retención de clientes mediante recomendaciones de productos personalizadas. 
+Utiliza un dashboard interactivo para visualizar datos y tomar decisiones informadas.
+
+- **Tecnologías Utilizadas:** 
+    - Python
+    - Google Colab
+    - Kaggle
+    - Loom
+    - Power Bi
+    - Github
+
+4. [PaySim](Ciencia de Datos/PaySim)
+- **Objetivos**
+    Identificación de Patrones de Fraude: Detectar patrones y anomalías en los datos que puedan indicar actividades fraudulentas.
+    Modelado Predictivo: Desarrollar y entrenar modelos de machine learning para predecir la probabilidad de fraude en nuevas transacciones.
 
 ## Contacto
 
