@@ -1,0 +1,85 @@
+<img src="https://images.pexels.com/photos/5829726/pexels-photo-5829726.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" style="width: 1150px; height: 300px;"/>
+
+
+# Detección de Fraudes con Análisis de Datos
+
+video presentaciòn proyecto: <br> https://www.loom.com/share/58fdda1192f447289615296ba99dc841?sid=f37728af-6a25-4b3f-80c5-1a2c3719d48a
+
+
+Objetivos
+
+- Identificación de Patrones de Fraude: Detectar patrones y anomalías en los datos que puedan indicar actividades fraudulentas.
+
+- Modelado Predictivo: Desarrollar y entrenar modelos de machine learning para predecir la probabilidad de fraude en nuevas transacciones.
+
+- Mejora Continua: Iterar y mejorar continuamente los modelos y técnicas de detección de fraudes mediante la evaluación y ajuste de sus rendimientos.
+
+- Implementación en Tiempo Real: Desarrollar un sistema que pueda ser implementado en tiempo real para la detección de fraudes instantáneamente.
+
+- Análisis y Reportes: Proveer análisis detallados y reportes sobre las transacciones detectadas como fraudulentas para una mejor toma de decisiones.
+
+- Automatización de Procesos: Automatizar la detección y alerta de actividades fraudulentas para reducir la intervención manual.
+
+<img src="https://i.ibb.co/q9LkJ3J/Whats-App-Image-2024-06-12-at-5-33-34-PM.jpg" style="width: 2050px; height: 300px;"/>
+
+
+
+
+### Integrantes
+
+<div align="left">
+
+  
+   <ul>
+      <li> Nefer Barreto Vergel - Data Analyst - https://www.linkedin.com/in/neferbv/
+      <li> Amalia Raimundo - Data Analyst
+      <li> Mariana Soto -  Data Analyst
+      <li> Cristian Lepra - Data Science 
+      <li> Carolina Romero- Data Analyst - https://www.linkedin.com/in/carolina-romerou
+    
+     
+</div>
+
+<img src="https://media.istockphoto.com/id/1873354602/es/foto/empresario-analizando-la-estrategia-de-inversi%C3%B3n-financiera-con-gr%C3%A1fico-de-crecimiento.jpg?s=612x612&w=0&k=20&c=aZTQhLsRf5_9kRm-bWxE6cRn2lJKcuepgs2sTZq4HoQ=" alt="Texto alternativo" style="width: 2050px; height: 300px;"/>
+
+
+## Tecnologias usadas
+
+Python: Para el modelado, evaluación de modelos de machine learning, desarrollo de scripts y análisis de datos.
+
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+Pandas: Para manipulación y análisis de datos.
+<div align="left">
+
+  <img src="https://th.bing.com/th/id/R.396e9d5875826ecba9d910e883d69daf?rik=9rHkhiCAhRLKzQ&pid=ImgRaw&r=0" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+
+NumPy: Para cálculos numéricos eficientes.
+<div align="left">
+
+  <img src="https://www.bing.com/images/search?q=Numpy+Python+Logo.png&FORM=IRIBIP" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+
+
+Matplotlib: Para visualización de datos.
+
+
+Notebook: Para crear y compartir documentos que contienen código, visualizaciones y texto narrativo.
+
+Enlaces:
+
+Repositorio en GitHub : https://github.com/No-Country/S15-35-T/blob/main/README.md#s15-35-t <br>
+Documentación del Proyecto : <br>
+Dataset : https://www.kaggle.com/datasets/ealaxi/paysim1 <br>
+drive: https://drive.google.com/drive/folders/1aI8Wh275k0A0Iyyy8Gnp3fx4B9tHXwLa  
+
+
